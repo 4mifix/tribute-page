@@ -1,1 +1,1 @@
-tibute  info
+tribute  info
